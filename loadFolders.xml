@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
-	<!-- <v1.4> -->
-		<!-- <li>/</li> -->
-		<!-- <li>1.4</li> -->
-        <!-- <li IfModActive="ceteam.combatextended">1.4/Mods/CombatExtendedPatch</li> -->
-		<!-- <li IfModActive="kentington.saveourship2">1.4/Mods/SaveOurShip</li> -->
-	<!-- </v1.4> -->
-	<v1.5>
-		<li>/</li>
-		<li>1.5</li>
-		<li>Common</li>
-		<li IfModActive="kentington.saveourship2">1.5/Mods/SaveOurShip</li>
-		<li IfModActive="SmashPhil.VehicleFramework">1.5/Mods/Vehicles</li>
-	</v1.5>
 	<v1.6>
 		<li>/</li>
 		<li>1.6</li>
